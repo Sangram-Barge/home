@@ -47,7 +47,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Sangram Barge. I'm a Software Engineer from Pune with passion for building stuff. In my free time I get lost into relm of fiction",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: require("../editable-stuff/resume.pdf"),
 };
 
 // PROJECTS SECTION
